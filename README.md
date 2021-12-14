@@ -3,7 +3,7 @@
 - 🌱 looking to integrate my projects into my new blog so I can share
 - 🌱 what I know and what I'm learning.
 - 📫 whenthedataaintpretty@gmail.com
-- 🔗 wtdap.com
+- 🔗 https://www.wtdap.com/
 
 <!---
 wtdap/wtdap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
